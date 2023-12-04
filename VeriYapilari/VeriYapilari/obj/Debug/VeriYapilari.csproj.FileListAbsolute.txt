@@ -1,0 +1,7 @@
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.exe.config
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.exe
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.pdb
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.csproj.AssemblyReference.cache
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.exe
+C:\Users\canbi\OneDrive\Documents\GitHub\VeriYapilari\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.pdb
